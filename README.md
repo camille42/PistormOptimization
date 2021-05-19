@@ -1,4 +1,5 @@
-# Pistorm Optimization
+# Pistorm Optimization (fork)
+
 
 The goal is to cleanup a bit the Raspbian OS and make the root partition read-only so that you can power off the Amiga without worrying about the SD corruption, but also start the Pistorm emulator the earliest possible.
 
